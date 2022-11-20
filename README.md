@@ -31,4 +31,4 @@
 1. Then save, tick the Register option and **Run Script**. After this, click on layout tap which will zoom in the Animation.
 1. Here you can see an option in left hand side called **OpenCV Animation**. Click on it you will see capture option on the right as given below![img3](images/img3.png)
 1. Click on **capture** which will turn on your video camera.
-1. **Congragulations!**, Now move your face once the face mesh comes which will make the Vincent Animation automatically mimic your face.
+1. **Congragulations!**, Now move your face once the face mesh comes which will make the Vincent Animation automatically mimic your face..
